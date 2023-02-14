@@ -1,19 +1,19 @@
-[![MasterHead](https://nepalseocompany.com/uploads/1601303461againsoft-web-development-in-bangladesh.jpg)](https://github.com/Prince-parves)
+[![MasterHead](https://www.webhopers.com/wp-content/uploads/2020/10/web-development-company-in-Bangalore.jpg)](https://github.com/Prince-parves)
 <h1 align="center">Hi 👋, I'm Parves Mosharaf</h1>
-<h3 align="center">A passionate Laravel developer from Bangladesh</h3>
+<h3 align="center">A passionate PHP developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Prince-parves&label=Profile%20views&color=0e75b6&style=flat" alt="Prince-parves"
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **PHP**
 
 - 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [http://www.parvesmosharaf.com/](https://www.parvesmosharaf.com/)
 
-- 💬 Ask me about **PHP, LARAVEL & JAVASCRIPT**
+- 💬 Ask me about **PHP,JAVASCRIPT**
 
 - 📫 How to reach me **princeparves79@gmail.com**
 
